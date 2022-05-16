@@ -111,7 +111,7 @@ INITIAL {
     nf = nfinf
     
     VERBATIM
-    return 0;
+    return;
     ENDVERBATIM
 }
 
