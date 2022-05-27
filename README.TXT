@@ -43,12 +43,7 @@ To generate action potential data using APthreshold.hoc:
    of the useCellType variable set near the top of the APthreshold.hoc 
    file to "R859C".  
 
-   
-
-   
-   
-   
-
-
-  
-
+Changelog
+---------
+2022-05: Updated MOD files to contain valid C++ and be compatible with
+         the upcoming versions 8.2 and 9.0 of NEURON.
