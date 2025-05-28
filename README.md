@@ -29,6 +29,7 @@ The Spampanato et al. 2004 paper used slightly different parameters in the same 
 5. To generate similar data for the R859C channels change the value of the `useCellType` variable set near the top of the `APthreshold.hoc` file to `"R859C"`.
 
 ---
-
-2025-05-27 – Standardized to Markdown
+## Changelog
 2022-05: Updated MOD files to contain valid C++ and be compatible with the upcoming versions 8.2 and 9.0 of NEURON.
+
+2025-05-27: Standardized to Markdown
