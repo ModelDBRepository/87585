@@ -8,7 +8,7 @@ The Spampanato et al. 2004 paper used slightly different parameters in the same 
 
 ## Files
 
-- README.TXT - this file
+- README.md - this file
 - ichanWT2005.mod - Nav1.1 wild-type channel model
 - ichanR859C1.mod - R859C mutation (w/ B1)
 - APthreshold.hoc - generates data to find action potential thresholds
